@@ -1,0 +1,43 @@
+define(function(require, exports, module) {
+    var SlideData = {
+        'album':[
+        '../../img/album/smaller_1.jpg',
+        '../../img/album/smaller_2.jpg',
+        '../../img/album/smaller_3.jpg',
+        '../../img/album/smaller_4.jpg',
+        '../../img/album/smaller_5.jpg',
+        '../../img/album/smaller_6.jpg',
+        '../../img/album/smaller_7.jpg',
+        '../../img/album/smaller_8.jpg',
+        '../../img/album/smaller_9.jpg',
+        '../../img/album/smaller_10.jpg',
+        '../../img/album/smaller_11.jpg',
+        '../../img/album/smaller_12.jpg',
+        '../../img/album/smaller_13.jpg',
+        '../../img/album/smaller_14.jpg',
+        '../../img/album/smaller_15.jpg',
+        '../../img/album/smaller_16.jpg',
+        '../../img/album/smaller_17.jpg',
+        '../../img/album/smaller_18.jpg',
+        '../../img/album/smaller_19.jpg',
+        '../../img/album/smaller_20.jpg',
+        '../../img/album/smaller_21.jpg',
+        '../../img/album/smaller_22.jpg',
+        '../../img/album/smaller_23.jpg',
+        '../../img/album/smaller_24.jpg',
+        '../../img/album/smaller_25.jpg',
+        '../../img/album/smaller_26.jpg',
+        '../../img/album/smaller_27.jpg',
+        '../../img/album/smaller_28.jpg',
+        '../../img/album/smaller_29.jpg',
+        '../../img/album/smaller_30.jpg',
+        '../../img/album/smaller_31.jpg',
+        '../../img/album/smaller_32.jpg',
+        '../../img/album/smaller_33.jpg',
+        '../../img/album/smaller_34.jpg',
+        '../../img/album/smaller_35.jpg',
+        '../../img/album/smaller_36.jpg'
+    ]
+    };
+    module.exports = SlideData;
+});
